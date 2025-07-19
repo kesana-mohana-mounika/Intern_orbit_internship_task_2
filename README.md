@@ -86,7 +86,7 @@ This project allowed me to:
 ## 🎥 Demo Video
 
 📺 Watch the complete project walkthrough here:  
-🔗 [LinkedIn Video Link](https://www.linkedin.com/in/yourprofile) (Replace with your video link)
+🔗 [LinkedIn Video Link](https://www.linkedin.com/posts/kesana-mohana-mounika-548114344_machinelearning-internship-creditcardfrauddetection-activity-7352281981717553153-kBlz?utm_source=share&utm_medium=member_desktop&rcm=ACoAAFYoewgBCwKr-tM3UK4tbA8AS98p6O7bcOE) (Replace with your video link)
 
 ---
 
